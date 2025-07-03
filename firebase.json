@@ -1,4 +1,4 @@
-{ 
+{
   "hosting": {
     "public": "dist",
     "ignore": [
