@@ -95,6 +95,7 @@ npm run dev
 
 ---
 
-📜 **License:** MIT  
-🚀 **Developed with ❤️ for a seamless healthcare experience!**
+📜[MIT License](LICENSE)
+
+🚀 **Developed By Hazrat Ali**
 
