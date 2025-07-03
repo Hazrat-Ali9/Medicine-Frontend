@@ -6,7 +6,7 @@ import Router from './Routs/Router';
 import { HelmetProvider } from 'react-helmet-async';
 import AuthProvider from './Context/AuthProvider';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-
+// main part
 // TanStack Query Client তৈরি
 const queryClient = new QueryClient();
 
