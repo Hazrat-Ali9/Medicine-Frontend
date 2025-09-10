@@ -2,7 +2,7 @@ import React from 'react';
 import useAuthContext from '../Components/hooks/useAuthContext';
 import useAxios from './useAxios';
 import { useQuery } from '@tanstack/react-query';
-
+// use all products
 const useAllProducts = () => {
     const { user } = useAuthContext(); // AuthContext থেকে user পাবেন
     const axiosSecure = useAxios(); // ফাংশন হিসেবে কল করুন
